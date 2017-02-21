@@ -1,0 +1,29 @@
+.texto-customizado{
+	color: red;
+}
+
+.texto-negrito{
+	font-weight: bold;
+}
+
+
+.rodape{
+	height: 60px;
+    background-color: #4682B4;
+}
+
+.texto-rodape{
+	color: #fff;
+	font-weight: bold;
+	padding-top: 15px;
+}
+
+.jumbotron {
+	 background-color: #4682B4;	
+	 color: #ffffff;	
+	 font-weight: bold;
+}
+
+
+
+
