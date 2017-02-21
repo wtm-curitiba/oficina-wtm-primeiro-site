@@ -1,0 +1,37 @@
+#header-pagina{
+	color: blue;
+	font-weight: bold;
+	text-align: center;
+}
+
+#corpo-pagina{
+	font-weight: bold;
+	text-align: center;
+}
+
+.texto-customizado{
+	color: red;
+	text-align: center;
+}
+
+.texto-negrito{
+	font-weight: bold;
+}
+
+
+.rodape{
+	height: 60px;
+    background-color: #4682B4;
+	text-align: center;
+}
+
+.texto-rodape{
+	color: #fff;
+	font-weight: bold;
+	padding-top: 15px;
+	text-align: center;
+}
+
+
+
+
